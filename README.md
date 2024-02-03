@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://server12.ovh/">Hejo ^^ 👋</a></h1>
+<h1 align="center"><a href="https://turtliso.ovh/">Hejo ^^ 👋</a></h1>
 
 <p align="center">
   <a href="https://github.com/rafalpro1209">
